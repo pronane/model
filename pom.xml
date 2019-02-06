@@ -4,13 +4,13 @@
 
     <groupId>com.srcrea</groupId>
     <artifactId>model</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:https://github.com/pronane/model.git</connection>
         <developerConnection>scm:git:https://github.com/pronane/model.git</developerConnection>
         <url>https://github.com/pronane/model</url>
-        <tag>model-0.1.0</tag>
+        <tag>master</tag>
     </scm>
 
     <distributionManagement>
